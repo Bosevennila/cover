@@ -161,7 +161,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<book page.PNG>)
+![book page](https://github.com/Bosevennila/cover/assets/144870486/45f32b08-390a-4972-810c-7b3e8631cea2)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
