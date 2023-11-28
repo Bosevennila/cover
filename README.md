@@ -161,7 +161,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![book page](https://github.com/Bosevennila/cover/assets/144870486/45f32b08-390a-4972-810c-7b3e8631cea2)
+![ai 1234](https://github.com/Bosevennila/cover/assets/144870486/67d6ca5c-e380-4b43-ae3f-28cf8ca5688d)
+
 
 
 ## RESULT:
